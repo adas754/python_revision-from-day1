@@ -1,1 +1,3 @@
-# python_revision-from-day1
+Basic
+list
+string
