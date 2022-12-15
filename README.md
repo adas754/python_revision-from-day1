@@ -4,4 +4,4 @@ list
 
 string
 
-iteration
+iteration,iterable,iterator
