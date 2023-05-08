@@ -11,3 +11,5 @@
 ## Python Interview Questions
 
 ## Groupby,crosstab,pivot_table,apply function
+
+## Removing & Detecting Outliars
