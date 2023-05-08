@@ -9,3 +9,5 @@
 ## Pandas Question With Answers
 
 ## Python Interview Questions
+
+## Groupby,crosstab,pivot_table,apply function
