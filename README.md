@@ -15,3 +15,5 @@
 ## Removing & Detecting Outliars
 
 ## Handling Missing Values
+
+## Data visualization
